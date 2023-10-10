@@ -1,1 +1,1 @@
-# Proyecto 2 de progamación web
+# Maqueta de Proyecto 2 para la materia de  progamación web 
