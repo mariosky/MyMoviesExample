@@ -1,1 +1,1 @@
-# Proyecto 2 de progamación web
+# Maqueta del proyecto MyMovies
